@@ -25,4 +25,4 @@ Jot 'D' Dots is a website that offers computer science students a platform to en
 
 
 NOTE:
-#/ This readME is not a final issue, you need to keep updating it as and when you see fit.
+#/ This readME is not a final issue.
