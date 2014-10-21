@@ -1,0 +1,26 @@
+--------------Computer Network(205112072)--------------
+1->Introduction
+  1.1 Network Models.
+2->Physical Layer 
+ 2.1 Data and Signals
+ 2.2 Transmission Media.
+ 2.3 Switching
+3->Data Link Layer
+ 3.1 Error Detection and Correction
+ 3.2 Wired LANs : Ethernet
+ 3.3 Wireless LAN
+ 3.4 VIrtual LAN
+ 3.5 SONET/SDH
+ 3.6 Virtual-Circuit Networks:Frame Relay and TM
+4->Neetwork Layer
+ 4.1 Logical Addressing
+ 4.2 Internet Protocol
+ 4.3 Delivery,Forwarding and Routing.
+5->Transport Layer
+ 5.1 UDP,TCT and SCTP.
+ 5.2 Congestion Control and Quality of service.
+6->Application Layer
+ 6.1 DNS
+ 6.2 Remote Logging,EMail,and file tranfer.
+ 6.3 WWW and HTTP.
+ 6.4 SNMP
